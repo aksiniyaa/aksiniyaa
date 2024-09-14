@@ -38,7 +38,13 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 6 months of commertial experi
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
 </a>
+<a href="https://github.com">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/GitHub.png" alt="Figma" width="50" height="50" /> 
+</a>
 <a href="https://figma.com">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
+</a>
+<a href="https://trello.com">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Trello.png" alt="Figma" width="50" height="50" /> 
 </a>
 </p>
