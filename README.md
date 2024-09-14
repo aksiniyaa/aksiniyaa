@@ -24,7 +24,7 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 6 months of commertial experi
 
 #### Portfolio 
 - Test documentation
-  -  [Check-lists](https://ссылочку_сюда)
+  -  [Check-list](https://ссылочку_сюда)
   -  [Glossary](https://ссылочку_сюда)
   -  [Mind map](https://ссылочку_сюда)
   -  [Bug reports](https://ссылочку_сюда)
