@@ -1,7 +1,7 @@
 #### About me
 
 
-Hi, I'm Kseniya, a Quality Assurance Engineer with 6 months of commertial experience. 
+Hi, I'm Kseniya, a Quality Assurance Engineer with 8 months of commertial experience. 
 
 
 #### My contacts
