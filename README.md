@@ -32,9 +32,9 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 6 months of commertial experi
 <p align="left">
 <a href="https://www.charlesproxy.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
-</a>
-<a href="https://www.postman.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Terminal" width="50" height="50" />
+</a> 
+<a href="https://developer.android.com/studio">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="50" height="50" />
 </a>
 <a href="https://github.com">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/GitHub.png" alt="Figma" width="50" height="50" /> 
