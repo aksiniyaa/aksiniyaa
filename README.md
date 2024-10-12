@@ -22,7 +22,7 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 8 months of commertial experi
 
 [Babak Kseniya CV QA Engineer](https://drive.google.com/file/d/1fMNagV6-9Y__sf2q17ysAxW1E2JMDHJN/view?usp=sharing)
 
-#### Certificates 
+#### My Certificates 
 - [QA Theory](https://ссылочку_сюда)
 - [Terminal](https://ссылочку_сюда)
 - [Git](https://ссылочку_сюда)
