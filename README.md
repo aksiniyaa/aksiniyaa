@@ -48,5 +48,5 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 8 months of commertial experi
 </p>
 
 #### Reviews About Me
-  -  [Mentor review about me](https://www.linkedin.com/feed/update/urn:li:activity:7249862589537472514?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7249862589537472514%2C7249862949790515201%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287249862949790515201%2Curn%3Ali%3Aactivity%3A7249862589537472514%29)
+  -  [Mentor review About me](https://www.linkedin.com/feed/update/urn:li:activity:7249862589537472514?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7249862589537472514%2C7249862949790515201%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287249862949790515201%2Curn%3Ali%3Aactivity%3A7249862589537472514%29)
   -  [About me as a assist. mentor of Sandbox Mobile](https://drive.google.com/drive/folders/1yIt3nfq99AG6z-0JcmgIeYRQOEExz61f?usp=drive_link)
