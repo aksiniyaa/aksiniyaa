@@ -22,12 +22,10 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 6 months of commertial experi
 
 [Babak Kseniya CV QA Engineer](https://drive.google.com/file/d/1fMNagV6-9Y__sf2q17ysAxW1E2JMDHJN/view?usp=sharing)
 
-#### Portfolio 
-- Test documentation
-  -  [Check-list](https://ссылочку_сюда)
-  -  [Glossary](https://ссылочку_сюда)
-  -  [Mind map](https://ссылочку_сюда)
-  -  [Bug reports](https://ссылочку_сюда)
+#### Certificates 
+- [QA Theory](https://ссылочку_сюда)
+- [Terminal](https://ссылочку_сюда)
+- [Git](https://ссылочку_сюда)
 
 #### Tools and technologies
 
@@ -36,7 +34,7 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 6 months of commertial experi
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
 </a>
 <a href="https://www.postman.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Terminal" width="50" height="50" />
 </a>
 <a href="https://github.com">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/GitHub.png" alt="Figma" width="50" height="50" /> 
