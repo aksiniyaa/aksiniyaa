@@ -43,7 +43,7 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 8 months of commertial experi
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
 </a>
 <a href="https://trello.com">
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmarks.svg" alt="Trello" width="50" height="50" /> 
+<img src="https://trello.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmarks.svg" alt="Trello" width="50" height="50" /> 
 </a>
 </p>
 
