@@ -37,7 +37,7 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 8 months of commertial experi
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="50" height="50" />
 </a>
 <a href="https://github.com">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/GitHub.png" alt="Figma" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" /> 
 </a>
 <a href="https://figma.com">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
