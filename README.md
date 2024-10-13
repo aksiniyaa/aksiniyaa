@@ -31,19 +31,19 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 8 months of commertial experi
 
 <p align="left">
 <a href="https://www.charlesproxy.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" alt="Charles Proxy" width="50" height="50" />
 </a> 
 <a href="https://developer.android.com/studio">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
 </a>
 <a href="https://github.com">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" /> 
 </a>
 <a href="https://figma.com">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /> 
 </a>
 <a href="https://trello.com">
-<img src="https://trello.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmarks.svg" alt="Trello" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="Trello" width="50" height="50" /> 
 </a>
 </p>
 
