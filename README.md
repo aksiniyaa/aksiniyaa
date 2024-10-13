@@ -39,6 +39,9 @@ Hi, I'm Kseniya, a Quality Assurance Engineer with 8 months of commertial experi
 <a href="https://github.com">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" /> 
 </a>
+<a href="https://www.linux.com">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" /> 
+</a>
 <a href="https://figma.com">
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /> 
 </a>
